@@ -14,8 +14,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.5900268554687504,
-          39.27758021849922
+          -2.488616943,
+          39.6845
         ]
       }
     },
@@ -24,9 +24,9 @@
       "properties": {
         "stroke": "#34373E",
         "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-opacity": 0,
         "fill": "#29BCB8",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0,
         "popup-text": "<a href='https://www.google.com/'>Polígono industrial Villarrobledo</a>"
       },
       "geometry": {
