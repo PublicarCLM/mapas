@@ -4,24 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "What is this?"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.488616943,
-          39.6845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#34373E",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -92,62 +74,6 @@
             [
               -2.577323913574219,
               39.28654911251987
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "lake major?"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.48861694335937,
-          39.73454012555642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
-        "popup-text": "I'm a square!"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -2.542861938476555,
-              39.654977979262924
-            ],
-            [
-              -2.542861938476555,
-              39.68452147118967
-            ],
-            [
-              -2.483123779296875,
-              39.68452147118967
-            ],
-            [
-              -2.483123779296875,
-              39.654977979262924
-            ],
-            [
-              -2.542861938476555,
-              39.654977979262924
             ]
           ]
         ]
