@@ -2,11 +2,6 @@
   "type": "FeatureCollection",
   "features": [
     {
-	    
-	"type": "Building",
-      "properties": {
-        "display": "none",
-      },
       "type": "Feature",
       "properties": {
         "stroke": "#34373E",
