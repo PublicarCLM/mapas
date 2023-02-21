@@ -24,9 +24,9 @@
       "properties": {
         "stroke": "#34373E",
         "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-opacity": 2,
         "fill": "#29BCB8",
-        "fill-opacity": 0.5,
+        "fill-opacity": 2,
         "popup-text": "<a href='https://www.google.com/'>Polígono industrial Villarrobledo</a>"
       },
       "geometry": {
