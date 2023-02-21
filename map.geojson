@@ -1,6 +1,10 @@
 {
   "type": "FeatureCollection",
   "features": [
+    "type": "building",
+    "properties": {
+				"fill": "false",
+			},
     {
       "type": "Feature",
       "properties": {
